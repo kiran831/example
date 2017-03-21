@@ -17,12 +17,7 @@
     <url>http://54.70.32.213:8081/nexus/content/repositories/releases/</url>
     <uniqueVersion>true</uniqueVersion>
   </repository> 
- <snapshotRepository>
-    <id>snapshots</id> 
-   <url>http://54.70.32.213:8081/nexus/content/repositories/snapshots/</url>
-    <uniqueVersion>false</uniqueVersion>
-  </snapshotRepository>
-</distributionManagement>
+ </distributionManagement>
   <modules>
     <module>simple</module>
   </modules>
