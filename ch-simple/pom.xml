@@ -19,8 +19,7 @@
 <snapshotRepository>
 <id>nexusSnapshots</id>
 <name>Snapshots</name>
-<url>http://54.70.32.213:8081/nexus/content/repositories/
-snapshots</url>
+<url>http://54.70.32.213:8081/nexus/content/repositories/:wqsnapshots</url>
 </snapshotRepository>
 </distributionManagement>
   <modules>
